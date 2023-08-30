@@ -2,7 +2,7 @@
     "sounds": [
         {
             "name": "0小号",
-            "sound": "Mrm. C9"
+            "sound": ["Mrm. C9", "Glock. [BC]"]
         },
         {
             "name": "v张致萱",
