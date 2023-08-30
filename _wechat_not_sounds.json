@@ -1,32 +1,9 @@
 {
-    "sounds": [
-        {
-            "name": "0小号",
-            "sound": ["Mrm. C9", "Glock. [BC]"]
-        },
-        {
-            "name": "v张致萱",
-            "sound": "Mrm. D"
-        },
-        {
-            "name": "v王睿宁",
-            "sound": "Mrm. Bmaj9 (-1o)"
-        },
-        {
-            "name": "v宋想祎",
-            "sound": "Mrm. E♭add4 (-1o)"
-        },
-        {
-            "name": "高一 9 班学生群",
-            "sound": "Mrm. F／C (thicker)"
-        },
-        {
-            "name": "Unofficial 高一 9 班同学群",
-            "sound": "Mrm. Fsus4／C (thick)"
-        },
-        {
-            "name": "爸爸 & 妈妈",
-            "sound": "Mrm. C (thicker→thinner)"
-        }
-    ]
+    "0小号": "Glock. [BC]",
+    "v张致萱": "Mrm. D",
+    "v王睿宁": "Mrm. Bmaj9 (-1o)",
+    "v宋想祎": "Mrm. E♭add4 (-1o)",
+    "高一 9 班学生群": "Mrm. F／C (thicker)",
+    "Unofficial 高一 9 班同学群": "Mrm. Fsus4／C (thick)",
+    "爸爸 & 妈妈": "Mrm. C (thicker→thinner)"
 }
